@@ -1,0 +1,4 @@
+Hi guys!
+I have been debating about switching to linux for a long time. I bought a new ssd and installed cachyos
+and I am now following The Odin Project. I'm leaving this here in the rare case I return to it in the future.
+Bye!
